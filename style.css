@@ -1,0 +1,41 @@
+.fixe{
+    position: fixed;
+    background-color: rgb(81, 81, 224);
+width: 100%;
+text-align: center;
+
+
+}
+#container{
+    position: relative;
+    top: 100px;
+}
+.green{
+    background-color: green;
+    position:  relative ;
+    top: 100px;
+    width :20%;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+.red{
+    background-color: red;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    width: 20%;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+.yellow{
+    background-color: yellow;
+    position: fixed;
+    top: 500px;
+    left: 70%;
+    width: 20%;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
